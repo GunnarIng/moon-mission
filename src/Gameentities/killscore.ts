@@ -9,7 +9,7 @@ class KillScore extends GameEntity {
 
   constructor(position: p5.Vector, score: string) {
 
-    super(position, createVector(0, 0), image, 0);
+    super(position, p5.Image, 0, 0);  
 
     this.speed = 1;
     this.score = score;
