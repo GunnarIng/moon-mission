@@ -1,5 +1,8 @@
 # Slutprojektet
 
+## [Link to the game] (https://lysmac.github.io/moon-mission/)
+
+
 Välkommen till den förinställda kodbasen för slutprojektet.
 Se filen [Sketch](./src/sketch.ts) och [Game](./src/game.ts) filerna för hur ni bör börja skriva er kod!
 
